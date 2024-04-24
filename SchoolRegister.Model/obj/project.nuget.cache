@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PrbkfWCr+B009GcrH7kSUPgOAvW270a3PyCTJCTFZZVnkA6WscP4yunDvx3bshekF/6g9ugiwvig3zm4HV5X+g==",
+  "dgSpecHash": "Q5bsec4GXxqjOc+xBY66DP+n7FPfAo6HE9BjWzOk0LClXfAox/lGqi0Cfho2MU6Khi5oxsy2yin5XljiQdOLhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+  "projectFilePath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

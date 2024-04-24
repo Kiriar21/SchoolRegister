@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SchoolRegister.Web-9b3e9296-804c-4be1-b579-ed65e2b9f18d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolRegister.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299df4e59790813f09ee80b08b6477f4e2c73c77")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolRegister.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolRegister.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

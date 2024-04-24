@@ -28,3 +28,19 @@ C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\S
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\refint\SchoolRegister.ViewModels.dll
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.pdb
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\ref\SchoolRegister.ViewModels.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.deps.json
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfo.cs
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.sourcelink.json
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRe.74268CC5.Up2Date
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\refint\SchoolRegister.ViewModels.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\net8.0\ref\SchoolRegister.ViewModels.dll

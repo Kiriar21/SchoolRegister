@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {}
+    "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+    "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "projectName": "SchoolRegister.DAL",
-        "projectPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "packagesPath": "C:\\Users\\Kiriar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiriar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               }
             }
           }
@@ -49,7 +49,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.11.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
             },
@@ -60,6 +74,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.60.3, )"
             }
           },
           "imports": [
@@ -82,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+    "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "projectName": "SchoolRegister.Model",
-        "projectPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "packagesPath": "C:\\Users\\Kiriar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\obj\\",
+        "outputPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiriar\\AppData\\Roaming\\NuGet\\NuGet.Config",

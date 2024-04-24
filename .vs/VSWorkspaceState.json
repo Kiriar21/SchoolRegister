@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\SchoolRegister.DAL",
+    "\\SchoolRegister.DAL\\EF",
     "\\SchoolRegister.Model",
     "\\SchoolRegister.Services",
     "\\SchoolRegister.ViewModels",
     "\\SchoolRegister.Web"
   ],
-  "SelectedNode": "\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+  "SelectedNode": "\\SchoolRegister.Web",
   "PreviewInSolutionExplorer": false
 }

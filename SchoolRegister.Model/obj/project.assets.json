@@ -1902,11 +1902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
       "projectName": "SchoolRegister.Model",
-      "projectPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+      "projectPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
       "packagesPath": "C:\\Users\\Kiriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiriar\\Desktop\\Studia\\Semestr 6\\Aplikacje WWW\\Lab\\Lab4\\SchoolRegister\\SchoolRegister.Model\\obj\\",
+      "outputPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiriar\\AppData\\Roaming\\NuGet\\NuGet.Config",

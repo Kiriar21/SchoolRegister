@@ -28,3 +28,21 @@ C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\S
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\refint\SchoolRegister.DAL.dll
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.pdb
 C:\Users\Kiriar\Desktop\Studia\Semestr 6\Aplikacje WWW\Lab\Lab4\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\ref\SchoolRegister.DAL.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.deps.json
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.runtimeconfig.json
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.csproj.AssemblyReference.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfo.cs
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.sourcelink.json
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRe.0EB9A3CA.Up2Date
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\refint\SchoolRegister.DAL.dll
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.pdb
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.genruntimeconfig.cache
+C:\Users\Kiriar\Desktop\SchoolRegister\SchoolRegister.DAL\obj\Debug\net8.0\ref\SchoolRegister.DAL.dll
