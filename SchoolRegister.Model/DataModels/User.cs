@@ -9,8 +9,8 @@ namespace SchoolRegister.Model.DataModels
 {
     public class User : IdentityUser<int>
     {
-        public string FirstName { get; set; } = null!;
-        public string LastName { get; set; } = null!;
+        public string ?FirstName { get; set; }
+        public string ?LastName { get; set; }
         public DateTime RegistrationTime { get; set; } = DateTime.Now;
         public User()
         {

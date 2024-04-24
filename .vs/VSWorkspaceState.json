@@ -8,6 +8,6 @@
     "\\SchoolRegister.ViewModels",
     "\\SchoolRegister.Web"
   ],
-  "SelectedNode": "\\SchoolRegister.Web",
+  "SelectedNode": "\\SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
