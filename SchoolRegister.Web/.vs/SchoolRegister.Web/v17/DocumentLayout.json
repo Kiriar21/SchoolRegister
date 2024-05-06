@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF72D1-6DE1-408C-9019-D97E41E8DEA5}|..\\SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\kiriar\\desktop\\schoolregister\\schoolregister.model\\datamodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "RelativeDocumentMoniker": "..\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "ToolTip": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "RelativeToolTip": "..\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwC0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:58:30.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

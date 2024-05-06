@@ -21,13 +21,14 @@ namespace SchoolRegister.Model.DataModels
         {
             get
             {
-                if (Grades == null || Grades.Any())
+                if(AverageGradePerSubject == null || !AverageGradePerSubject.Any())
                 {
-                    return (double)0.00;
+                    return 0.00;
                 }
-
-                return Grades
-                        .Average(x => (double)x.GradeValue);
+                else
+                {
+                    return AverageGradePerSubject.Average(x => x.Value);
+                }
             }
         }
         [NotMapped]
@@ -35,18 +36,18 @@ namespace SchoolRegister.Model.DataModels
         {
             get
             {
-                if (Grades == null || !Grades.Any())
+                if (GradesPerSubject == null || !GradesPerSubject.Any())
                 {
                     return new Dictionary<string, double>();
                 }
 
-                return Grades
-                        .GroupBy(x => x.Subject.Name)
-                        .ToDictionary(x => x.Key, y => y.Average( z => (double)z.GradeValue));
+                return GradesPerSubject
+                        .GroupBy(x => x.Key)
+                        .ToDictionary(x => x.Key, y => y.Average(z => Convert.ToInt32(z.Value)));
             }
         }
         [NotMapped]
-        public virtual IDictionary<string, List<GradeScale>>? GradesPerSubject
+        public virtual IDictionary<string, List<GradeScale>> GradesPerSubject
         {
             get
             {
