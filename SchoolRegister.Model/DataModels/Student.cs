@@ -17,18 +17,18 @@ namespace SchoolRegister.Model.DataModels
         public int? ParentId { get; set; }
         public virtual IList<Grade>? Grades { get; set; }
         [NotMapped]
-        public virtual double AverageGrade
+        public virtual IDictionary<string, List<GradeScale>> GradesPerSubject
         {
             get
             {
-                if(AverageGradePerSubject == null || !AverageGradePerSubject.Any())
+                if (Grades == null || !Grades.Any())
                 {
-                    return 0.00;
+                    return new Dictionary<string, List<GradeScale>>();
                 }
-                else
-                {
-                    return AverageGradePerSubject.Average(x => x.Value);
-                }
+
+                return Grades
+                        .GroupBy(x => x.Subject.Name)
+                        .ToDictionary(x => x.Key, y => y.Select(z => z.GradeValue).ToList());
             }
         }
         [NotMapped]
@@ -47,18 +47,18 @@ namespace SchoolRegister.Model.DataModels
             }
         }
         [NotMapped]
-        public virtual IDictionary<string, List<GradeScale>> GradesPerSubject
+        public virtual double AverageGrade
         {
             get
             {
-                if(Grades == null || !Grades.Any())
+                if (AverageGradePerSubject == null || !AverageGradePerSubject.Any())
                 {
-                    return new Dictionary<string, List<GradeScale>>();
+                    return 0.00;
                 }
-
-                return Grades
-                        .GroupBy(x => x.Subject.Name)
-                        .ToDictionary(x => x.Key, y => y.Select(z => z.GradeValue).ToList());
+                else
+                {
+                    return AverageGradePerSubject.Average(x => x.Value);
+                }
             }
         }
         public Student() 
