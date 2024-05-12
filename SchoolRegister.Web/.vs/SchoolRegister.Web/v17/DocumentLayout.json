@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A233E2F5-C37D-4252-B2E2-9B58295D9604}|SchoolRegister.Web\\SchoolRegister.Web.csproj|c:\\users\\kiriar\\desktop\\schoolregister\\schoolregister.web\\schoolregister.web\\schoolregister.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A233E2F5-C37D-4252-B2E2-9B58295D9604}|SchoolRegister.Web\\SchoolRegister.Web.csproj|solutionrelative:schoolregister.web\\schoolregister.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DF72D1-6DE1-408C-9019-D97E41E8DEA5}|..\\SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\kiriar\\desktop\\schoolregister\\schoolregister.model\\datamodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}|..\\SchoolRegister.Test\\SchoolRegister.Test.csproj|c:\\users\\kiriar\\desktop\\schoolregister\\schoolregister.test\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SchoolRegister.Web",
-              "DocumentMoniker": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "ToolTip": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "RelativeToolTip": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-12T20:10:26.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "RelativeDocumentMoniker": "..\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "ToolTip": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "RelativeToolTip": "..\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Test\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\SchoolRegister.Test\\Startup.cs",
+              "ToolTip": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Test\\Startup.cs",
+              "RelativeToolTip": "..\\SchoolRegister.Test\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:58:30.014Z",
+              "WhenOpened": "2024-05-12T21:28:35.807Z",
               "EditorCaption": ""
             }
           ]
