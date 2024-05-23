@@ -4,7 +4,7 @@ namespace SchoolRegister.ViewModels.VM
 {
     public class StudentVm
     {
-        public int Id { get; set; }
+        public int StudentId { get; set; }
         public string FirstName { get; set; } = null!;
         public string LastName { get; set; } = null!;
         public string ParentName { get; set; } = null!;

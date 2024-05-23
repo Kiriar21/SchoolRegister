@@ -13,11 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolRegister.Services", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolRegister.ViewModels", "..\SchoolRegister.ViewModels\SchoolRegister.ViewModels.csproj", "{5960858B-00FD-4F19-BC18-7C1FFB68690E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolRegister.Test", "..\SchoolRegister.Test\SchoolRegister.Test.csproj", "{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}"
-	ProjectSection(ProjectDependencies) = postProject
-		{4E8C0340-2486-4E6D-A9C4-8D2AAF22D1C5} = {4E8C0340-2486-4E6D-A9C4-8D2AAF22D1C5}
-		{84DF72D1-6DE1-408C-9019-D97E41E8DEA5} = {84DF72D1-6DE1-408C-9019-D97E41E8DEA5}
-		{F9B01E83-F8DD-43A6-A9F0-0CBB56A111F1} = {F9B01E83-F8DD-43A6-A9F0-0CBB56A111F1}
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9B78F8D-97A3-4919-AABD-1874CED10D37}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
 Global
@@ -46,10 +44,6 @@ Global
 		{5960858B-00FD-4F19-BC18-7C1FFB68690E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5960858B-00FD-4F19-BC18-7C1FFB68690E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5960858B-00FD-4F19-BC18-7C1FFB68690E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{423FB9EC-6B06-498C-BD1C-BC0F2DEC2152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolRegister.ViewModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3492c3fd033148d994b5a46ed6047c18547cc81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13eacfe2d6b626a60cc0b45226532597b4b9f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolRegister.ViewModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolRegister.ViewModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

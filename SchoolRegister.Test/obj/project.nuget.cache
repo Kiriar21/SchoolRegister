@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "T3EMM+J4WiSM3U/IdRnS6px1SZkfXdDEV3l/Xd8OEiM/yk7wxwWuUyCAbx4KSAdOxAxV1vb7chXPNqoX/giLSw==",
+  "dgSpecHash": "R8yL4Nj0uSxF3pugG9ULiW34hBIYgdCSYqTbGZNW9uM04aXuSHfftpJwHHFV5Xnj0UP+UfllMudziHUDet+q4w==",
   "success": false,
   "projectFilePath": "C:\\Users\\Kiriar\\Desktop\\SchoolRegister\\SchoolRegister.Test\\SchoolRegister.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiriar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
-    "C:\\Users\\Kiriar\\.nuget\\packages\\azure.identity\\1.11.2\\azure.identity.1.11.2.nupkg.sha512",
+    "C:\\Users\\Kiriar\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -69,7 +69,7 @@
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.extensions.webencoders\\2.2.0\\microsoft.extensions.webencoders.2.2.0.nupkg.sha512",
-    "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.identity.client\\4.60.3\\microsoft.identity.client.4.60.3.nupkg.sha512",
+    "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.identity.client\\4.61.0\\microsoft.identity.client.4.61.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.60.3\\microsoft.identity.client.extensions.msal.4.60.3.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
     "C:\\Users\\Kiriar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.35.0\\microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
